@@ -16,10 +16,10 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: diegobrum
+          user: gdlcf88
           template: classic
           base: activity, community, repositories, metadata
-          config_timezone: Europe/Lisbon
+          config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
