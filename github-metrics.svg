@@ -1390,7 +1390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BlazorComponent/MASA.Blazor.Pro</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material design admin template for blazor.</div>
@@ -1549,7 +1549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kinvolk/headlamp</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy-to-use and extensible web UI for Kubernetes brought to you by Kinvolk.</div>
@@ -1599,7 +1599,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2022, 13:22:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 14:27:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
