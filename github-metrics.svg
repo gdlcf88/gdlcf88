@@ -1374,7 +1374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aspnet-contrib/AspNet.Security.OAuth.Providers</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OAuth 2.0 social authentication providers for ASP.NET Core</div>
@@ -1583,7 +1583,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 20:36:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 21:35:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
