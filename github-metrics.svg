@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SteveSandersonMS/WebWindow</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.</div>
@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>myspaghetti/macos-virtualbox</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS</div>
@@ -1573,7 +1573,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 May 2022, 17:22:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 18:26:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
