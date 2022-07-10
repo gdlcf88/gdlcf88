@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TeamStepping/Stepping.NET</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET library to implement distributed BASE jobs with decentralization transaction managers. You can use Stepping alone or as an SDK of DTM's 2-phase messaging since it is compatible with the latter.</div>
@@ -1562,7 +1562,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jul 2022, 03:17:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 04:22:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
