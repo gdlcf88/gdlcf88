@@ -1376,7 +1376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtm-labs/rockscache</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.</div>
@@ -1585,7 +1585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2022, 02:30:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 03:18:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
