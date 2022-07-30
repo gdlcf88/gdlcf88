@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3900 Commits
+                            3901 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -141,7 +141,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    5 Forkers
+                                    6 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,12 +271,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.67224546136407" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.67224546136407" y="0" width="9.984631352041834" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.6568768134059" y="0" width="0.8458849210767928" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.5027617344827" y="0" width="0.3295592780202072" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.832321012503" y="0" width="0.13820227787944173" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9705232903824" y="0" width="0.02947670961764317" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.63312889106436" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.63312889106436" y="0" width="9.983760862417952" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.6168897534823" y="0" width="0.8458111743333393" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.46270092781566" y="0" width="0.36963470343616367" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.83233563125185" y="0" width="0.1381902289970494" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9705258602489" y="0" width="0.029474139751118938" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tporadowski/redis</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.</div>
@@ -1500,7 +1500,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1.09k
+                                        1.10k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2022, 15:20:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 16:27:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
