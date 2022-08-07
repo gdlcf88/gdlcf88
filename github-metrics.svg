@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3963 Commits
+                            3966 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -38,7 +38,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            63 Issues opened
+                            62 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,14 +271,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.7079590059296" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="428.7079590059296" y="0" width="14.366138929652298" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.0740979355819" y="0" width="12.39269281092539" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.4667907465073" y="0" width="2.5224894711096795" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.98928021761697" y="0" width="1.127814166577186" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.11709438419416" y="0" width="0.7242067042883106" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.84130108848245" y="0" width="0.13080083197123893" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9721019204537" y="0" width="0.0278980795463132" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.3143298781597" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="426.3143298781597" y="0" width="16.861474813602474" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.17580469176215" y="0" width="12.317921440261866" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.493726132024" y="0" width="2.5075013638843426" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.0012274959083" y="0" width="1.1211129296235678" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1223404255319" y="0" width="0.719903618839789" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8422440443717" y="0" width="0.13002364066193853" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9722676850336" y="0" width="0.02773231496635752" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1378,7 +1378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/Maui</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier</div>
@@ -1431,7 +1431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/MVVM-Samples</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample repo for MVVM package</div>
@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/dotnet</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.</div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 23:22:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 00:29:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
