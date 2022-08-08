@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3975 Commits
+                            3976 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,14 +271,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.31390854275037" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="426.31390854275037" y="0" width="16.84509155311682" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.15900009586716" y="0" width="12.33473048980201" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.4937305856692" y="0" width="2.5074988856680607" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.00122947133724" y="0" width="1.1211118216041043" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1223412929413" y="0" width="0.7199029073439169" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8422442002852" y="0" width="0.1300235121568426" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9722677124421" y="0" width="0.027732287557927966" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.34334680883416" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="426.34334680883416" y="0" width="16.83037063222942" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.1737174410636" y="0" width="12.323951172210581" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.4976686132742" y="0" width="2.5053075830797216" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.00297619635387" y="0" width="1.120132082290743" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1231082786446" y="0" width="0.7192737843906697" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8423820630353" y="0" width="0.1299098846452362" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.97229194768056" y="0" width="0.027708052319438493" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dapr/dotnet-sdk</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dapr SDK for .NET</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/Maui</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/MVVM-Samples</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample repo for MVVM package</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommunityToolkit/dotnet</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.</div>
@@ -1559,13 +1559,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.12k
+                                        1.13k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        70
+                                        71
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2022, 13:26:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 14:31:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
