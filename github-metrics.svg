@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4002 Commits
+                            4007 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,14 +271,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.3013951313679" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="426.3013951313679" y="0" width="16.812548734902354" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.11394386627023" y="0" width="12.310901180784107" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.4248450470543" y="0" width="2.5026546804494685" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.92749972750374" y="0" width="1.1965371031357535" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1240368306395" y="0" width="0.7185121360695736" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8425489667091" y="0" width="0.129772321386737" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9723212880958" y="0" width="0.027678711904164186" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.6448987041793" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="428.6448987041793" y="0" width="14.410492348378662" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.055391052558" y="0" width="12.426913550120178" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.48230460267814" y="0" width="2.5115292628513215" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.9938338655295" y="0" width="1.125260022200465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.11909388772995" y="0" width="0.7225666038744671" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8416604916044" y="0" width="0.13050460922519583" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.97216510082956" y="0" width="0.027834899170408902" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dapr/dotnet-sdk</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dapr SDK for .NET</div>
@@ -1588,7 +1588,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Aug 2022, 03:19:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 04:24:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
