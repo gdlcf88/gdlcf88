@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepkolos/platformize</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个支持把 js 库中浏览器 api 改用定制 polyfill 的构建插件, 并提供特定库的定制适配, 比如threejs/oasis/playcanvas/pixi</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2022, 04:23:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 05:19:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
