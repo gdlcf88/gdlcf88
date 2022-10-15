@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TemplateStudio</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.</div>
@@ -1526,7 +1526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serdarciplak/BlazorMonaco</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazor component for Microsoft's Monaco Editor which powers Visual Studio Code.</div>
@@ -1576,7 +1576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2022, 00:37:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 01:32:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
