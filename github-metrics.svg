@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EasyAbp/DynamicForm</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ABP module helps users to define and use dynamic forms at runtime.</div>
@@ -1597,7 +1597,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2023, 16:25:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 17:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
