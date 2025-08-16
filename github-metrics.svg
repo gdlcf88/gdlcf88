@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytebase/dbhub</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MCPRUNNER/mssqlMCP</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP Server for MSSQL (Microsoft SQL Server)</div>
@@ -1582,7 +1582,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Aug 2025, 19:19:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2025, 20:49:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
